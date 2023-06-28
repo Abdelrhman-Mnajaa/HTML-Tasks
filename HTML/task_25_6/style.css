@@ -1,0 +1,60 @@
+body {
+    margin: 5%;
+    height: 100%
+  }
+  .navbar {
+    margin-top: -10%;
+    margin-bottom: 3%;
+
+  }
+
+
+.header{
+  margin-bottom: 50px;
+}
+.container .header .container{
+  background-color:rgba(128, 128, 128, 0.174);
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.container .container .row .col {
+
+border:1px solid gray;
+border-radius:2%;
+margin: 2px;
+flex-wrap: nowrap;
+
+}
+
+.header .btn{
+ width: 100%;
+}
+
+.footer .btn{
+ width: 100%;
+}
+
+.norH1{
+  font-weight: normal;
+ }
+
+
+.container .container .row .col .row h2{
+border-bottom: 1px solid rgba(131, 20, 20, 0);
+background-color: rgba(94, 96, 98, 0.089);
+}
+
+div .btn{
+  margin-bottom: 10px;
+}
+
+.largP{
+    font-size: 25px;
+    font-weight: bold;
+}
+.container .container .row .col .row p span{
+
+    font-size: 25px;
+    color:darkgray;
+    font-weight: normal;
+    }
